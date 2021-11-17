@@ -73,7 +73,7 @@ body {
 #aboutMe {
     display: flex;
     justify-content: center;
-    gap: 15vh;
+    gap: 5vh;
     flex-direction: column;
     align-items: center;
     background-color: #394032;
@@ -110,7 +110,11 @@ a.downloadLink {
     width: 75%;
     color: whitesmoke;
     text-align: center;
-    font-size: 3vh;
+    font-size: 2vh;
+}
+
+#fontIcons {
+    font-size: 10vh;
 }
 
 #projects {
