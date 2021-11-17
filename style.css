@@ -51,7 +51,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    height: 100vh;
+    /* height: 100vh; */
     width: 100%;
     background-color: #587B7F;
     overflow:visible;
@@ -78,7 +78,7 @@ body {
     align-items: center;
     background-color: #394032;
     /* background-color:rgba(36, 36, 195, .7); */
-    height: 100vh;
+    /* height: 100vh; */
     padding-bottom: 5vh;
 }
 
@@ -125,7 +125,7 @@ a.downloadLink {
     align-content: center;
     background-color: #587B7F;
     /* background-color:rgba(48, 209, 47, .5); */
-    height: 100vh;
+    /* height: 100vh; */
     width: 100%;
     padding-bottom: 20vh;
 }
@@ -148,8 +148,9 @@ a.downloadLink {
     flex-direction: column;
     align-items: center;
     background-color: #394032;
+    gap: 10vh;
     /* background-color: rgba(239, 53, 35, .5); */
-    height: 100vh;
+    /* height: 100vh; */
     padding-bottom: 25vh;
 }
 
