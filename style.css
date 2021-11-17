@@ -9,7 +9,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: max-content;
     width: auto;
-    color: whitesmoke;
+    color: #F8F5EA;
 }
 
 .navbarbackground {
@@ -20,7 +20,7 @@ body {
 }
 
 .navbarbackground a {
-    color: whitesmoke;
+    color: #F8F5EA;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -108,7 +108,7 @@ a.downloadLink {
 #aboutMeText {
     align-self: center;
     width: 75%;
-    color: whitesmoke;
+    color: #F8F5EA;
     text-align: center;
     font-size: 2vh;
 }
@@ -176,7 +176,7 @@ a.downloadLink {
 footer {
     display:flex;
     justify-content: center;
-    color: whitesmoke;
+    color: #F8F5EA;
     font-size: 2vh;
     position:sticky;
 }
