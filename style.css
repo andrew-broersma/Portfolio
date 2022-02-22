@@ -127,11 +127,11 @@ a.downloadLink {
     /* background-color:rgba(48, 209, 47, .5); */
     /* height: 100vh; */
     width: 100%;
-    padding-bottom: 20vh;
+    padding-bottom: 25vh;
 }
 
 #projects h2 {
-    font-size: 15vh;
+    font-size: 13vh;
 }
 
 .projectsWrapper {
@@ -140,6 +140,12 @@ a.downloadLink {
     grid-auto-rows: 100px;
     grid-gap: 20vh;
     place-content: center;
+    width: 90%;
+}
+
+.projectLink {
+    color: white;
+    text-decoration: none;
 }
 
 #contactMe {
